@@ -1,7 +1,8 @@
 let trialObj = {
     car : "swift",
     color: "red",
-    engine: "1400cc"
+    engine: "1400cc",
+    part: "Available"
 }
 
 console.log(trialObj.car);
